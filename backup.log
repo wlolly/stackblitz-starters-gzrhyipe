@@ -1,0 +1,17 @@
+开始备份 Wed 09 Apr 2025 04:13:40 AM UTC
+备份目录: app
+备份目录: components
+备份目录: database
+备份目录: lib
+备份目录: middleware
+备份目录: public
+备份目录: services
+备份目录: shared
+备份目录: tools
+备份文件: package.json
+备份文件: drizzle.config.ts
+备份文件: tailwind.config.ts
+备份文件: next.config.js
+备份文件: .env
+备份完成。备份目录: ./backup_20250409_041340
+总文件数: 2060
